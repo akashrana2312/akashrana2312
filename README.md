@@ -12,5 +12,5 @@
 ## ✨GitHub Stats: 
 
 <div>
- <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=akashrana2312&theme=tokyonight" alt="Akash1298" />
+ <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=akashrana2312&theme=tokyonight" alt="akashrana2312" />
 </div>
